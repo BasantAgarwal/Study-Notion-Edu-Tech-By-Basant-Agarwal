@@ -1,5 +1,6 @@
 # StudyNotion
-## Live  -  https://studynotion-edtech-platform-zeta.vercel.app/
+[## Live  -  https://studynotion-edtech-platform-zeta.vercel.app/](https://studynotion-master.vercel.app/)
+(project taken from here
 
 ## Installation
 
